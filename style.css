@@ -4,3 +4,12 @@ body {
 	display: flex;
 	justify-content: center;
 }
+ul {
+	float: right;
+	text-decoration: none;
+	display: block;
+}
+
+li {
+	text-decoration-style: none;
+}
